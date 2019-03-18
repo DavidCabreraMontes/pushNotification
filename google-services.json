@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "810639197968",
+    "firebase_url": "https://pokemon-528cd.firebaseio.com",
+    "project_id": "pokemon-528cd",
+    "storage_bucket": "pokemon-528cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810639197968:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810639197968-hs8lmm6fndhcdevomlcmaoggej3mr9oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHmnLmZGt_Bw-pHN0ELsSD-McsyVgseak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
